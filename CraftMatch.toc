@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Craft-Match
+## Notes: Mini-Test (Schritt 0) - prueft Rezepte lesen, Addon-Sync und Item-Daten
+## Author: Thomas
+## Version: 0.0.1
+
+CraftMatch.lua
